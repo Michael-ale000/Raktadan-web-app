@@ -1,0 +1,39 @@
+﻿body {
+    color: white;
+    text-align: center;
+    opacity: 1;
+    background-color: darkred;
+    font-size: 60px;
+    background: rgba(0,0,0,0.7) url('images/first.jpg');
+    background-blend-mode: darken;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.box {
+    align-content: center;
+    width: 500px;
+    height: 382px;
+    border-style: solid;
+    border-radius: 1em;
+    border-block-end-style: solid;
+    border-block-end-width: 10px;
+    margin-left: 499px;
+    margin-top: 186px;
+    background: rgba(0,0,0,0.7) url('images/hands2.jpg');
+    background-blend-mode: darken;
+}
+
+.login {
+    color: white;
+    font-size: 30px;
+    font-style: inherit;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.main {
+    text-align: center;
+    text-size-adjust: auto;
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

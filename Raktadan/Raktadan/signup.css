@@ -1,0 +1,23 @@
+﻿body {
+    background-color: white;
+    background-image: url('images/blood.jpg');
+    background-repeat: no-repeat;
+}
+
+form {
+    align-content: center;
+    background-color: blue;
+    text-align: center;
+    position: center;
+    height: 300px;
+    width: 500px;
+    border-block: thick;
+    border-block-end-style: solid;
+    margin: 158px 300px 300px 400px;
+    padding: 30px;
+    font-size: 30px;
+    border-radius: 3em;
+    border-block-end-width: 10px;
+    background: rgba(0,0,0,0.3);
+    background-blend-mode: darken;
+}
